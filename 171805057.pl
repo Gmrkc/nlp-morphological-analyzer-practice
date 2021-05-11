@@ -1,13 +1,4 @@
 
-%Furkan Gumrukcu 171805057
-
-%Attila, süratle adamlarý ikiye böldü
-%Çiftliðe uzanan bir millik, çam aðaçlarýyla örülü yolun iki yanýndaki çorak araziye yayýldýlar
-%Yaz güneþi ortalýðý adeta kavuruyordu
-%Kuzey doðuya doðru uzanan arazi boyunca süratle koþtular
-%Evin kapkara kesilmiþ iskeletinin yanýna vardýklarýnda gördükleri manzaraya inanamamýþlardý
-
-
 %States
 initial(q0).
 final(q1).
@@ -36,26 +27,26 @@ t(q6,kisi_eki,q7).
 t(q6,zaman_eki,q7).
 
 
-%Fiil kökleri ve ekleri
-allomorph(böl,kok).
+%Fiil kÃ¶kleri ve ekleri
+allomorph(bÃ¶l,kok).
 allomorph(yay,kok).
 allomorph(kavur,kok).
-allomorph(koþ,kok).
+allomorph(koÅŸ,kok).
 allomorph(inan,kok).
 
 allomorph(u,ses_turemesi).
 
-allomorph(ýl,yapim_eki).
+allomorph(Ä±l,yapim_eki).
 allomorph(a,yapim_eki).
    		
 allomorph(ma,olumsuzluk_eki).
 
-allomorph(dü,zaman_eki).
+allomorph(dÃ¼,zaman_eki).
 allomorph(du,zaman_eki).
-allomorph(dý,zaman_eki).
+allomorph(dÄ±,zaman_eki).
 allomorph(yor,zaman_eki).
 allomorph(tu,zaman_eki).
-allomorph(mýþ,zaman_eki).     
+allomorph(mÄ±ÅŸ,zaman_eki).     
 
 allomorph(lar,kisi_eki).
 
