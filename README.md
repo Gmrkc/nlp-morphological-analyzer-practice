@@ -1,1 +1,1 @@
-# nlp-practice
+# nlp-morphological-analyzer-practice
